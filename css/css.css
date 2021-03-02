@@ -1,0 +1,29 @@
+* {
+    font: 20px Arial, sans-serif;
+    color: white;
+}
+
+.navbar {
+    background-color: rgb(99, 96, 133);
+}
+
+.quemsomos {
+    background-color: rgb(191, 187, 243);
+}
+
+.margin {
+    padding: 30px;
+}
+
+.parceiros {
+    background-color: rgb(191, 187, 243);
+}
+
+.servicos {
+    background-color: rgb(191, 187, 243);
+}
+
+.rodape {
+    background-color: rgb(191, 187, 243);
+    padding-bottom: 5px;
+}
